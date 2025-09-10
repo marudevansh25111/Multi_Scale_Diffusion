@@ -43,7 +43,6 @@ python run_pubmed_simple_monitor.py --dataset Cora --epochs 100 --lr 0.005
 - `run_citeseer_simple_monitor.py` - CiteSeer dataset runner  
 - `run_pubmed_simple_monitor.py` - PubMed dataset runner
 - `small_model_monitored.py` - Lightweight model implementation
-- `big_model_monitored.py` - Full model implementation
 - `clustering_metric.py` - Evaluation metrics
 
 ## Requirements
