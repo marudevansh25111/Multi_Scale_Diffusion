@@ -33,7 +33,7 @@ python run_pubmed_simple_monitor.py --dataset Cora --epochs 100 --lr 0.005
 | `--walks_per_node` | Walks per node | 10 |
 | `--batch_size` | Batch size | 2708 |
 | `--lr` | Learning rate | 0.01 |
-| `--epochs` | Training epochs | 200 |
+| `--epochs` | Training epochs | 100 |
 | `--log_steps` | Logging frequency | 1 |
 
 ## Files
